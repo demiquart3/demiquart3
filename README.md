@@ -1,11 +1,23 @@
 ## Hi there, I am Daria 👋
 
-🔭 I’m currently working on my personal projects and work projects
-🌱 I’m currently learning how to use React and TypeScript after learning JavaScript
-👯 I’m looking to collaborate on some interesting projects with 
-🤔 I’m looking for help with algorithms and logic :D
+I am a dev apprentice at Accenture Song. 
+<br>
 😄 Pronouns: she/her
+<br>
+🌱 I love creativity + creating, that's why I decided to combine dev + design. 
+<br>
+💫 In my free time, I practice coding by making small apps that could become something bigger in the future and help people who are struggling. I would like to create a comfortable place for them in my apps.
+<br>
 ⚡ Fun fact: Since I have a degree in linguistics, I thought: Why not learn programming languages? They are languages too. On the one hand, I was right, but on the other, how wrong I was.
 
-[(https://skillicons.dev/icons?i=js,html,css,react,ts,figma,github,ps,vscode,yarn)]
+<div> 
+  <h2>My Skills:</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,ts,figma,github,ps,vscode,yarn"/>
+  </a>
+</p>
+</div>
+
+
 
