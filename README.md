@@ -11,7 +11,7 @@ I am a dev and design apprentice at Accenture Song.
 ⚡ Fun fact: Since I have a degree in linguistics, I thought: Why not learn programming languages? They are languages too. On the one hand, I was right, but on the other, how wrong I was.
 
 <div> 
-  <h2>My Skills:</h2>
+  <h2>My Skills in progress:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,ts,figma,github,ps,vscode,yarn"/>
