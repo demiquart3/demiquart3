@@ -1,6 +1,6 @@
 ## Hi there, I am Daria 👋
 
-I am a dev apprentice at Accenture Song. 
+I am a dev and design apprentice at Accenture Song. 
 <br>
 😄 Pronouns: she/her
 <br>
